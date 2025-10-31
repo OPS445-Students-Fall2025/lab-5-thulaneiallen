@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running CheckLab5.py
+===============================================================
+    User login name: thulaneiallen
+    Linux system name: thulaneiallen-virtual-machine
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/thulaneiallen/ops445/lab5
+    Start at: Fri Oct 31 14:45:12 2025
+===============================================================
